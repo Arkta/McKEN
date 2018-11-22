@@ -1,10 +1,16 @@
 
 
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background-color: cyan;
+}
+
 h1 {color: rgba(160, 0, 200, 1);
   text-align: center;
-  font-family: 'Calibri', cursive;
-  padding-top: 20px;
-  }
-
-body {background-color: rgba(0, 0, 0, 1);
+  font-family: 'Grand Hotel';
+  font-size: 50px
   }
