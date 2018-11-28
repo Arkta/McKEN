@@ -6,24 +6,39 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 
 .jumbotron {
   padding-top: 90px;
-  background-color: rgba(72, 243, 240, 1);
+  background-color: white; /*rgba(72, 243, 240, 1)*/;
   text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
 }
 
-h1 {
-  color: rgba(160, 0, 200, 1);
+.jumbotron h1 {
+  color: rgba(252, 15, 192, 1);
   text-align: center;
-  font-family: 'Grand Hotel';
-  font-size: 60px;
-  padding-bottom: 30px;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
 }
 
 ul {
     padding: 10px;
-    font-family: 'Grand Hotel';
+    font-family: 'Niconne';
     font-size: 25px;
     background: rgba(252, 15, 192, 1);
-    color: cyan;
+    color: black;
 }
 
 li {
@@ -33,4 +48,34 @@ li {
 
 a {
   color: white;
+}
+
+h3 {
+  padding-top: 1000px;
+}
+
+.Ellie {
+  margin-top: 300px;
+  text-align: right;
+  background: cyan;
+}
+
+.Chloe {
+  text-align: left;
+  background: cyan;
+}
+
+.Natalie {
+  text-align: right;
+  background: cyan;
+}
+
+.Kate {
+  text-align: left;
+  background: cyan;
+}
+
+.Mallika {
+  text-align: right;
+  background: cyan;
 }
