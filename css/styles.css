@@ -53,29 +53,52 @@ a {
 h3 {
   padding-top: 1000px;
 }
-
+div{
+  height: 300px;
+  font-family: 'Arapey';
+  color: white;
+}
 .Ellie {
   margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: right;
-  background: cyan;
+  background-image: url('../img/milan fashion week.jpg');
+  width: 70%;
+  border-radius: 20px;
 }
-
 .Chloe {
   text-align: left;
+  margin-left: auto;
+  margin-right: auto;
   background: cyan;
+  width: 70%;
+  border-radius: 20px
 }
 
 .Natalie {
   text-align: right;
+  margin-left: auto;
+  margin-right: auto;
   background: cyan;
+  width: 70%;
+  border-radius: 20px;
 }
 
 .Kate {
   text-align: left;
+  margin-left: auto;
+  margin-right: auto;
   background: cyan;
+  width: 70%;
+  border-radius: 20px;
 }
 
 .Mallika {
   text-align: right;
+  margin-left: auto;
+  margin-right: auto;
   background: cyan;
+  width: 70%;
+  border-radius: 20px;
 }
