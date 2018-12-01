@@ -6,7 +6,9 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 
 .jumbotron {
   padding-top: 90px;
-  background-color: white; /*rgba(72, 243, 240, 1)*/;
+  background: linear-gradient(
+      rgba(50, 255,255, 0.75),
+      rgba(252, 50, 220, 0.75)); /*rgba(72, 243, 240, 1)*/;
   text-align: center;
   height: 240px;
   width: 100%;
