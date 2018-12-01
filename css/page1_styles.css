@@ -1,0 +1,108 @@
+
+
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background-color: white; /*rgba(72, 243, 240, 1)*/;
+  text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.jumbotron h1 {
+  color: rgba(252, 15, 192, 1);
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
+}
+
+ul {
+    padding: 10px;
+    font-family: 'Niconne';
+    font-size: 25px;
+    background: rgba(252, 15, 192, 1);
+    color: black;
+}
+
+li {
+  display: inline;
+  padding: 0px 20px 0px 20px;
+}
+
+a {
+  color: white;
+}
+
+h3 {
+  padding-top: 1000px;
+}
+div{
+  height: 300px;
+  font-family: 'Arapey';
+  color: white;
+}
+.Ellie {
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('../img/milan fashion week.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+.Chloe {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background: cyan;
+  width: 70%;
+  border-radius: 20px
+}
+
+.Natalie {
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  background: cyan;
+  width: 70%;
+  border-radius: 20px;
+}
+
+.Kate {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background: cyan;
+  width: 70%;
+  border-radius: 20px;
+}
+
+.Mallika {
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  background: cyan;
+  width: 70%;
+  border-radius: 20px;
+}
+
+.poll {padding: 100px;
+  position: center;
+}
