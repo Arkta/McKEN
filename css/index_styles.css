@@ -43,16 +43,26 @@ ul {
 
 li {
   display: inline;
-  padding: 0px 20px 0px 20px;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
 }
 
 a {
   color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
 }
 
 h3 {
   padding-top: 1000px;
 }
+
 div{
   height: 300px;
   font-family: 'Arapey';
@@ -101,4 +111,9 @@ div{
   background: cyan;
   width: 70%;
   border-radius: 20px;
+}
+
+.contact {
+  text-align: center;
+  font-family: 'Arapey'
 }

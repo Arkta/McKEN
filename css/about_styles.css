@@ -43,11 +43,20 @@ ul {
 
 li {
   display: inline;
-  padding: 0px 20px 0px 20px;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
 }
 
 a {
   color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
 }
 
 h3 {
@@ -57,52 +66,4 @@ div{
   height: 300px;
   font-family: 'Arapey';
   color: white;
-}
-.Ellie {
-  margin-top: 300px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: right;
-  background-image: url('../img/milan fashion week.jpg');
-  width: 70%;
-  border-radius: 20px;
-}
-.Chloe {
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  background: cyan;
-  width: 70%;
-  border-radius: 20px
-}
-
-.Natalie {
-  text-align: right;
-  margin-left: auto;
-  margin-right: auto;
-  background: cyan;
-  width: 70%;
-  border-radius: 20px;
-}
-
-.Kate {
-  text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-  background: cyan;
-  width: 70%;
-  border-radius: 20px;
-}
-
-.Mallika {
-  text-align: right;
-  margin-left: auto;
-  margin-right: auto;
-  background: cyan;
-  width: 70%;
-  border-radius: 20px;
-}
-
-.poll {padding: 100px;
-  position: center;
 }
