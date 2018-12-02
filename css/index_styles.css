@@ -105,14 +105,17 @@ div{
   width: 70%;
   border-radius: 20px;
   text-indent: 40px;
-  top: 20px;
-  position: relative;
+
 }
 
 ol {
-
+  font-size: 30px;
 }
 
+.Kate h1 {
+  padding-top: 20px;
+  font-size: 60px;
+}
 
 
 .Mallika {
