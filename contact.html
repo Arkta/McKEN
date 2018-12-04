@@ -29,29 +29,33 @@
       </ul>
   </div>
 
-<section class="background">
-  <div class="heading">
-    <h1> Contact Us
-    </h1>
-    <h2> Fill in your details here to be added to our email list
-    </h2>
-  </div>
+  <section class="background">
+    <div class="heading">
+      <h1><strong> Contact Us </strong>
+      </h1>
+      <h2><strong> Fill in your details here to be added to our email list </strong>
+      </h2>
+    </div>
+
+
 
   <div class="form">
     <input type="text" id="firstname" name="firstname" placeholder= "First Name">
+    <!-- <input type="text" id="message" name="message" placeholder= "Your Message"> -->
     <br>
     <input type="text" id="lastname" name="lastname" placeholder= "Last Name">
     <br>
     <input type="text" id="email" name="email" placeholder= "Your Email">
     <br>
-    <button> Submit </button>
-  <div>
+    <button id="submit"> Submit </button>
+  </div>
+
 
 </section>
 
 <script>
 $("button").on("click", function() {
-    alert("Submitted, thank you!")
+    alert("Thank you!")
   });
 </script>
 

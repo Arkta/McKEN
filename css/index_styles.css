@@ -35,7 +35,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   margin-bottom: -20px;
 }
 
-ul {
+.jumbotron ul {
     padding: 10px;
     font-family: 'Niconne';
     font-size: 25px;
@@ -43,18 +43,18 @@ ul {
     color: black;
 }
 
-li {
+.jumbotron li {
   display: inline;
   transition: 0.3s;
   padding: 13px 20px 13px 20px;
 }
 
-a {
+.jumbotron a {
   color: white;
   text-decoration: none;
 }
 
-a:hover {
+.jumbotron a:hover {
   background-color: white;
   color: rgba(252, 15, 192, 1);
   text-decoration: none;
@@ -79,6 +79,13 @@ div{
   width: 70%;
   border-radius: 20px;
 }
+
+.Ellie h1 {
+    padding: 20px;
+    color: white;
+    font-size: 50px;
+}
+
 .Chloe {
   text-align: left;
   margin-left: auto;
@@ -88,13 +95,26 @@ div{
   border-radius: 20px
 }
 
+.Chloe h1 {
+    padding: 20px;
+    color: white;
+    font-size: 50px;
+}
+
 .Natalie {
-  text-align: right;
   margin-left: auto;
   margin-right: auto;
-  background: cyan;
+  text-align: right;
+  background-image: url('../img/film3.jpg');
   width: 70%;
   border-radius: 20px;
+}
+
+.Natalie h1 {
+    padding: 20px;
+    /* color: rgba(252, 15, 192, 1); */
+    color: white;
+    font-size: 50px;
 }
 
 .Kate {
@@ -114,7 +134,8 @@ ol {
 
 .Kate h1 {
   padding-top: 20px;
-  font-size: 60px;
+  color: white;
+  font-size: 50px;
 }
 
 
@@ -127,18 +148,46 @@ ol {
   border-radius: 20px;
 }
 
+.Mallika h1 {
+  padding: 20px;
+  color: white;
+  font-size: 50px;
+}
+
+.contact {
+  height: 180px;
+}
+
 .contact h1{
   text-align: center;
-  font-family: 'Arapey'
-  font-size: 50px
+  font-family: 'Arapey';
+  font-size: 50px;
+  padding: 10px;
 }
 
 .contact h2{
   text-align: center;
   font-family: 'Arapey'
-  font-size: 30px
+  font-size: 50px;
 }
 
-.contact a {
+#socialmedia {
   text-align: center;
+  height: 150px;
+}
+
+#email {
+  padding: 40px;
+}
+
+#facebook {
+  padding: 40px;
+}
+
+#twitter {
+  padding: 40px;
+}
+
+#instagram {
+  padding: 40px;
 }
