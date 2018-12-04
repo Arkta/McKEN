@@ -1,5 +1,4 @@
 
-
 body {background-image: url('../img/glitter-green-blue.jpg');
   background-size: cover;
 }
@@ -70,6 +69,7 @@ div{
   font-family: 'Arapey';
   color: white;
 }
+
 .Ellie {
   margin-top: 300px;
   margin-left: auto;
@@ -112,7 +112,6 @@ div{
 
 .Natalie h1 {
     padding: 20px;
-    /* color: rgba(252, 15, 192, 1); */
     color: white;
     font-size: 50px;
 }
