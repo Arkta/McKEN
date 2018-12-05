@@ -85,6 +85,8 @@ div{
   color: white;
   font-size: 50px;
   background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .Chloe {
@@ -101,6 +103,8 @@ div{
   color: rgba(252, 15, 192, 1);
   font-size: 50px;
   background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .Natalie {
@@ -117,6 +121,8 @@ div{
   color: white;
   font-size: 50px;
   background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .Kate {
@@ -140,6 +146,8 @@ ol {
   color: rgba(252, 15, 192, 1);
   font-size: 50px;
   background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 
@@ -157,6 +165,8 @@ ol {
   color: white;
   font-size: 50px;
   background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .contact {
