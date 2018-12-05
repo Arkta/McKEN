@@ -1,0 +1,68 @@
+
+
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background-color: white; /*rgba(72, 243, 240, 1)*/;
+  text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.jumbotron h1 {
+  color: rgba(252, 15, 192, 1);
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
+}
+
+ul {
+    padding: 10px;
+    font-family: 'Niconne';
+    font-size: 25px;
+    background: rgba(252, 15, 192, 1);
+    color: black;
+}
+
+li {
+  display: inline;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
+}
+
+
+
+.poll {
+  display: flex;
+  margin-top: 300px;
+  justify-content: center;
+}

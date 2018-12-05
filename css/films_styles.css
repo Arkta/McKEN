@@ -1,0 +1,93 @@
+
+
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background: linear-gradient(
+      rgba(50, 255,255, 0.75),
+      rgba(252, 50, 220, 0.75)); /*rgba(72, 243, 240, 1)*/;
+  text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.jumbotron h1 {
+  color: rgba(252, 15, 192, 1);
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
+}
+
+.jumbotron ul {
+    padding: 10px;
+    font-family: 'Niconne';
+    font-size: 25px;
+    background: rgba(252, 15, 192, 1);
+    color: black;
+}
+
+.jumbotron li {
+  display: inline;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
+}
+
+.jumbotron a {
+  color: white;
+  text-decoration: none;
+}
+
+.jumbotron a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
+}
+
+.background {
+  margin-top: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  background: cyan;
+  width: 80%;
+  border-radius: 20px;
+  height: 1250px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Arapey';
+  text-align: center;
+  padding: 5px 20px 20px 20px;
+}
+
+.heading h1{
+  font-size: 60px;
+}
+
+.heading h2{
+  font-size: 30px;
+}
+
+.poll {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}

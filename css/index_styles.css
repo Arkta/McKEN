@@ -1,0 +1,208 @@
+
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background: linear-gradient(
+      rgba(100, 255,255, 0.70),
+      rgba(255, 100, 255, 0.70)); /*rgba(72, 243, 240, 1)*/;
+  text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.jumbotron h1 {
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: rgba(252, 15, 192, 1);
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
+}
+
+.jumbotron ul {
+    padding: 10px;
+    font-family: 'Niconne';
+    font-size: 25px;
+    background: rgba(252, 15, 192, 1);
+    color: black;
+}
+
+.jumbotron li {
+  display: inline;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
+}
+
+.jumbotron a {
+  color: white;
+  text-decoration: none;
+}
+
+.jumbotron a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
+}
+
+h3 {
+  padding-top: 1000px;
+}
+
+div{
+  height: 300px;
+  font-family: 'Arapey';
+  color: white;
+}
+
+.Ellie {
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('../img/milan fashion week.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.Ellie h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Chloe {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('https://cdn.lifehack.org/wp-content/uploads/2017/04/27232242/landscape-1452289733-avocado-toast.jpg');
+  width: 70%;
+  border-radius: 20px
+}
+
+.Chloe h1 {
+  padding: 10px;
+  color: rgba(252, 15, 192, 1);
+  font-size: 50px;
+  background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Natalie {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('../img/film3.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.Natalie h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Kate {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  border-radius: 20px;
+  text-indent: 40px;
+  background-image: url('../img/fun.jpg');
+  background-size: cover;
+
+}
+
+ol {
+  font-size: 30px;
+}
+
+.Kate h1 {
+  padding: 10px;
+  color: rgba(252, 15, 192, 1);
+  font-size: 50px;
+  background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+
+.Mallika {
+  text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('https://t3.ftcdn.net/jpg/02/10/82/84/240_F_210828414_QRvoT6HWf0pxY253d1E33MSLwmBpndo4.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.Mallika h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.contact {
+  height: 180px;
+}
+
+.contact h1{
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 50px;
+  padding: 10px;
+}
+
+.contact h2{
+  text-align: center;
+  font-family: 'Arapey'
+  font-size: 50px;
+}
+
+#socialmedia {
+  text-align: center;
+  height: 150px;
+}
+
+#email {
+  padding: 40px;
+}
+
+#facebook {
+  padding: 40px;
+}
+
+#twitter {
+  padding: 40px;
+}
+
+#instagram {
+  padding: 40px;
+}

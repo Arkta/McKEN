@@ -1,0 +1,99 @@
+
+body {background-image: url('../img/glitter-green-blue.jpg');
+  background-size: cover;
+}
+
+.jumbotron {
+  padding-top: 90px;
+  background: linear-gradient(
+      rgba(100, 255,255, 0.70),
+      rgba(255, 100, 255, 0.70)); /*rgba(72, 243, 240, 1)*/;
+  text-align: center;
+  height: 240px;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+}
+
+.jumbotron h1 {
+  color: rgba(252, 15, 192, 1);
+  text-align: center;
+  font-family: 'Arapey';
+  font-size: 100px;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.jumbotron h2 {
+  color: black;
+  text-align: center;
+  font-family: 'Niconne';
+  font-size: 70px;
+  padding-bottom: 0px;
+  margin-top: -80px;
+  margin-bottom: -20px;
+}
+
+.jumbotron ul {
+    padding: 10px;
+    font-family: 'Niconne';
+    font-size: 25px;
+    background: rgba(252, 15, 192, 1);
+    color: black;
+}
+
+.jumbotron li {
+  display: inline;
+  transition: 0.3s;
+  padding: 13px 20px 13px 20px;
+}
+
+div {
+  color: white;
+}
+
+.background h1 { font-family: 'Arapey';
+}
+
+.background h3 {font-family: 'Arapey';
+}
+ .tips {
+  font-family: 'Arapey';
+}
+.background {
+  background: cyan;
+  margin-top: 280px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 20px;
+  height: 800px;
+}
+
+.jumbotron a {
+  color: white;
+  text-decoration: none;
+}
+
+.jumbotron a:hover {
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
+  padding: 13px 0px 13px 0px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Arapey';
+  text-align: center;
+  padding: 5px 20px 20px 20px;
+}
+
+.heading h1 {
+  font-size: 60px;
+}
+
+.heading h3 {
+  font-size: 30px;
+}
