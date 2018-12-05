@@ -7,7 +7,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   padding-top: 90px;
   background: linear-gradient(
       rgba(100, 255,255, 0.70),
-      rgba(255, 100, 255, 0.70)); /*rgba(72, 243, 240, 1)*/;
+      rgba(255, 100, 255, 0.70));
   text-align: center;
   height: 240px;
   width: 100%;
