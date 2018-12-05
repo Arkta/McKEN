@@ -35,7 +35,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   margin-bottom: -20px;
 }
 
-ul {
+.jumbotron ul {
     padding: 10px;
     font-family: 'Niconne';
     font-size: 25px;
@@ -43,18 +43,18 @@ ul {
     color: black;
 }
 
-li {
+.jumbotron li {
   display: inline;
   transition: 0.3s;
   padding: 13px 20px 13px 20px;
 }
 
-a {
+.jumbotron a {
   color: white;
   text-decoration: none;
 }
 
-a:hover {
+.jumbotron a:hover {
   background-color: white;
   color: rgba(252, 15, 192, 1);
   text-decoration: none;
@@ -62,13 +62,14 @@ a:hover {
 }
 
 .background {
-  margin-top: 250px;
+  background: cyan;
+  margin-top: 280px;
+  margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
-  background: cyan;
   width: 80%;
   border-radius: 20px;
-  height: 1250px;
+  height: 750px;
 }
 
 .heading {
@@ -83,5 +84,9 @@ a:hover {
 }
 
 .heading h2{
+  font-size: 45px;
+}
+
+.heading h3 {
   font-size: 30px;
 }
