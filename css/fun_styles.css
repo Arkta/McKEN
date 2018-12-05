@@ -48,14 +48,29 @@ li {
   padding: 13px 20px 13px 20px;
 }
 
-.background {
-  padding-top: 300px;
-  font-family: 'Arapey';
-  padding-left: 150px;
-  padding-right: 150px;
-  background: cyan;
-
+div {
+  color: white;
 }
+
+.background h1 { font-family: 'Arapey';
+}
+
+.background h3 {font-family: 'Arapey';
+}
+ .tips {
+  font-family: 'Arapey';
+}
+.background {
+  background: cyan;
+  margin-top: 280px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 20px;
+  height: 800px;
+}
+
 a {
   color: white;
   text-decoration: none;
@@ -66,4 +81,19 @@ a:hover {
   color: rgba(252, 15, 192, 1);
   text-decoration: none;
   padding: 13px 0px 13px 0px;
+}
+
+.heading {
+  color: white;
+  font-family: 'Arapey';
+  text-align: center;
+  padding: 5px 20px 20px 20px;
+}
+
+.heading h1 {
+  font-size: 60px;
+}
+
+.heading h3 {
+  font-size: 30px;
 }
