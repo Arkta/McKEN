@@ -120,10 +120,11 @@ div{
   text-align: left;
   margin-left: auto;
   margin-right: auto;
-  background: cyan;
   width: 70%;
   border-radius: 20px;
   text-indent: 40px;
+  background-image: url('../img/fun.jpg');
+  background-size: cover;
 
 }
 
