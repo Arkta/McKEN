@@ -69,7 +69,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   background: cyan;
   width: 80%;
   border-radius: 20px;
-  height: 1000px;
+  height: 1100px;
 }
 
 .heading {
@@ -77,4 +77,85 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   font-family: 'Arapey';
   text-align: center;
   padding: 5px 20px 20px 20px;
+}
+
+div{
+  height: 300px;
+  font-family: 'Arapey';
+  color: white;
+}
+
+.avocado {
+  margin-top: -270px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('https://www.pritikin.com/wp/wp-content/uploads/2017/06/are-avocados-healthy.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.avocado h1 {
+  padding: 10px;
+  color: rgba(252, 15, 192, 1);
+  font-size: 50px;
+  background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.avocado p {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.chocolate {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('https://fortunedotcom.files.wordpress.com/2017/02/chocolate.gif');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.chocolate h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.chocolate p {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+
+.starbucks {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  background-image: url('https://images.thestar.com/nvLmt8s6Eh5TsZVSdO323bTPpq4=/1086x724/smart/filters:cb(1525135926918)/https://www.thestar.com/content/dam/thestar/business/2018/04/30/starbucks-cutting-back-on-quirky-limited-edition-drinks/starbucks_unicorn_frappucino.jpg');
+  width: 70%;
+  border-radius: 20px;
+}
+
+.starbucks h1 {
+  padding: 10px;
+  color: rgba(252, 15, 192, 1);
+  font-size: 50px;
+  background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.starbucks p {
+  text-align: center;
+  color: white;
+  font-size: 50px;
 }
