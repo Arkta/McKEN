@@ -48,14 +48,32 @@ li {
   padding: 13px 20px 13px 20px;
 }
 
-.background {
-  padding-top: 300px;
-  font-family: 'Arapey';
-  padding-left: 150px;
-  padding-right: 150px;
-  background: cyan;
-
+div {
+  color: white;
 }
+
+.background h1 { font-family: 'Arapey';
+}
+
+.background h3 {font-family: 'Arapey';
+}
+ .tips {
+  font-family: 'Arapey';
+}
+.background {
+  background: cyan;
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  border-radius: 20px;
+  height: 300px;
+  font-family: 'Arapey';
+  text-indent: 40px;
+  padding-top: 2px;
+  height: 800px;
+}
+
 a {
   color: white;
   text-decoration: none;
