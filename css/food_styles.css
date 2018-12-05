@@ -17,7 +17,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h1 {
-  color: rgba(252, 15, 192, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   font-family: 'Arapey';
   font-size: 100px;
@@ -26,7 +26,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h2 {
-  color: black;
+  color: rgba(252, 15, 192, 1);
   text-align: center;
   font-family: 'Niconne';
   font-size: 70px;
