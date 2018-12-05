@@ -87,6 +87,7 @@ div{
   background: rgba(100, 255,255, 0.70);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  text-decoration: none;
 }
 
 .Chloe {
@@ -105,6 +106,7 @@ div{
   background: rgba(255, 255,255, 0.50);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  text-decoration: none;
 }
 
 .Natalie {
@@ -123,6 +125,7 @@ div{
   background: rgba(100, 255,255, 0.70);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  text-decoration: none;
 }
 
 .Kate {
@@ -134,12 +137,9 @@ div{
   text-indent: 40px;
   background-image: url('../img/fun.jpg');
   background-size: cover;
-
+  text-decoration: none;
 }
 
-ol {
-  font-size: 30px;
-}
 
 .Kate h1 {
   padding: 10px;
@@ -167,6 +167,16 @@ ol {
   background: rgba(100, 255,255, 0.70);
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+}
+
+.link a {
+  text-decoration: none;
+}
+
+.link a:hover{
+  background-color: white;
+  color: rgba(252, 15, 192, 1);
+  text-decoration: none;
 }
 
 .contact {

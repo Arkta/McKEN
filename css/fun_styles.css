@@ -148,6 +148,42 @@ div {
 
 }
 
+.Charity h1 {
+  padding: 10px;
+  color: rgba(252, 15, 192, 1);
+  font-size: 50px;
+  background: rgba(255, 255,255, 0.50);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Baking h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Travel h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.Outfits h1 {
+  padding: 10px;
+  color: white;
+  font-size: 50px;
+  background: rgba(100, 255,255, 0.70);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
  .Title {
 
     font-family: 'Arapey';
