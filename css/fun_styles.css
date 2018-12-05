@@ -16,7 +16,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h1 {
-  color: rgba(252, 15, 192, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   font-family: 'Arapey';
   font-size: 100px;
@@ -25,7 +25,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h2 {
-  color: black;
+  color: rgba(252, 15, 192, 1);
   text-align: center;
   font-family: 'Niconne';
   font-size: 70px;
@@ -50,25 +50,6 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 
 div {
   color: white;
-}
-
-.background h1 { font-family: 'Arapey';
-}
-
-.background h3 {font-family: 'Arapey';
-}
- .tips {
-  font-family: 'Arapey';
-}
-.background {
-  background: cyan;
-  margin-top: 280px;
-  margin-bottom: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  border-radius: 20px;
-  height: 800px;
 }
 
 .jumbotron a {
@@ -97,3 +78,103 @@ div {
 .heading h3 {
   font-size: 30px;
 }
+
+.outfits {
+  font-family: 'Arapey'
+}
+
+  .Outfits {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    background-image: url('../img/outfits.jpg');
+    width: 60%;
+    border-radius: 20px;
+    background-size: cover;
+  }
+
+
+
+  .Baking {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('../img/baking.jpg');
+    width: 60%;
+    border-radius: 20px;
+    background-size: cover;
+  }
+
+
+
+  .Charity {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    background-image: url('../img/charity.jpg');
+    width: 60%;
+    border-radius: 20px;
+    background-size: cover;
+  }
+
+
+
+  .Travel {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 20px;
+    text-indent: 40px;
+    background-image: url('../img/travel.jpg');
+    background-size: cover;
+
+  }
+
+.Title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  border-radius: 20px;
+  text-indent: 40px;
+  background: rgba(0, 255, 255, 0.5);
+  background-size: cover;
+  margin-top: 300px;
+  font-size: 50px;
+  padding: 20px;]
+  height: 200px;
+
+}
+
+ .Title {
+
+    font-family: 'Arapey';
+    color: white;
+  }
+
+h3 { font-size: 60px;
+}
+ .Baking {
+    height: 350px;
+    font-family: 'Arapey';
+    color: white;
+
+  }
+   .Travel {
+    height: 350px;
+    font-family: 'Arapey';
+    color: white;
+  }
+ .Charity {
+    height: 350px;
+    font-family: 'Arapey';
+    color: cyan;
+  }
+
+   .Outfits {
+    height: 350px;
+    font-family: 'Arapey';
+    color: white;
+  }
