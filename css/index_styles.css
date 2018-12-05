@@ -154,9 +154,10 @@ ol {
   text-align: right;
   margin-left: auto;
   margin-right: auto;
-  background-image: url('https://t3.ftcdn.net/jpg/02/10/82/84/240_F_210828414_QRvoT6HWf0pxY253d1E33MSLwmBpndo4.jpg');
+  background-image: url('../img/music.jpg');
   width: 70%;
   border-radius: 20px;
+  background-size: cover;
 }
 
 .Mallika h1 {
