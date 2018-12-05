@@ -17,7 +17,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h1 {
-  color: rgba(252, 15, 192, 1);
+  color: rgba(255, 255, 255, 1);
   text-align: center;
   font-family: 'Arapey';
   font-size: 100px;
@@ -26,7 +26,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
 }
 
 .jumbotron h2 {
-  color: black;
+  color: rgba(252, 15, 192, 1);
   text-align: center;
   font-family: 'Niconne';
   font-size: 70px;
@@ -69,7 +69,7 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   background: cyan;
   width: 80%;
   border-radius: 20px;
-  height: 1100px;
+  height: 1200px;
 }
 
 .heading {
@@ -77,6 +77,9 @@ body {background-image: url('../img/glitter-green-blue.jpg');
   font-family: 'Arapey';
   text-align: center;
   padding: 5px 20px 20px 20px;
+}
+.heading h1{
+  font-size: 60px;
 }
 
 div{
@@ -86,7 +89,7 @@ div{
 }
 
 .avocado {
-  margin-top: -270px;
+  margin-top: -220px;
   margin-left: auto;
   margin-right: auto;
   text-align: right;
